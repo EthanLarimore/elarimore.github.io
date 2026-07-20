@@ -1,0 +1,32 @@
+---
+title: "Ethan Larimore"
+image: images/headshot.jpg
+toc: false
+about: 
+  template: trestles
+  links: 
+    - icon: linkedin
+      href: https://www.linkedin.com/in/ethan-larimore/
+    - icon: github
+      href: https://github.com/EthanLarimore
+    - icon: envelope
+      href: mailto:el115@rice.edu
+---
+::: {#intro-heading}
+
+Welcome to my website!
+
+Hi there! My name is Ethan Larimore and I'm a Junior at Rice University majoring in Statistics and Sport Analytics.
+
+## Education
+
+Rice University | Houston, TX
+Statistics and Sport Analytics | August 2025 - June 2028
+
+## Experience
+
+**Carnegie Mellon University** | Pittsburgh, PA | Undergradaute Researcher 
+
+::: 
+
+### About me
