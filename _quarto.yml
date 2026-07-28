@@ -3,19 +3,19 @@ project:
 
 website:
   title: "Ethan Larimore"
-  favicon: images/logo_test.png
   navbar:
-    logo: images/logo_test.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - projects.qmd
+      - text: Resume
+        href: assets/Github_Ethan_Larimore_Resume.pdf
+        target: _blank
 
 format:
   html:
-    theme:
-      light: [dodgerblue, custom.scss]
-      dark: solar
+    theme: midnight
+    css: custom.scss
     toc: true
     page-layout: full
 
