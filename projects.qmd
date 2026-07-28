@@ -1,0 +1,24 @@
+---
+title: "Projects"
+---
+
+<div class="project">
+<div class="project-info">
+
+## Screen-Machine: Pre-Snap Play Prediction in the NFL
+*With Krish Bothra and Jenna Lau*
+
+<div class="project-links">
+
+[GitHub](https://github.com/KrishBothra/Teamworks_CMSAC_2026){target="_blank"} ·
+[Paper](assets/cmsac_report.html){target="_blank"} ·
+[Poster](assets/Github_CMSAC_Poster.pdf){target="_blank"}
+
+</div>
+
+We developed a multi-stage modeling framework to predict key elements of the screen play before the snap using the NFL's Big Data Bowl tracking data. By combining players' spatial information with game contexts, our models predict screen play occurence, direction, and target receiver group while outperforming baseline approaches.
+
+</div>
+</div>
+
+---
